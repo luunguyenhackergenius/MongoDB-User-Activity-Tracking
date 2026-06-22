@@ -18,7 +18,7 @@ This project demonstrates the implementation of a MongoDB-based user activity tr
 ## Screenshots
 
 ### Documents Collection
-![Documents](screenshots/documents.png)
+![Documents](screenshots/MongoDB Screenshot 1 Documents.png)
 
 ### Validation Rules
 ![Validation](screenshots/validation.png)
